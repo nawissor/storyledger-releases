@@ -1,7 +1,7 @@
 # StoryLedger
 
 **Every thread accounted for.** A story-bible and continuity app for Windows,
-built by novelist Iwan Ross for authors writing series and the editors who work with them.
+built by novelist [Iwan Ross](https://iwanross.com) for authors writing series and the editors who work with them.
 
 This repository holds the official installers and automatic updates.
 
